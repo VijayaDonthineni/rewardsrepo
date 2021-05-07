@@ -1,0 +1,10 @@
+.ur-transactionItem {
+  display: inline;
+  border-bottom: 1px solid darkgrey;
+  padding-right: 15px;
+}
+
+.ur-details {
+  padding-bottom: 10px;
+  border-bottom: 1ps solid darkgrey;
+}
